@@ -1,0 +1,9 @@
+{
+  "name": "react-manually-01",
+  "version": "1.0.0",
+  "description": "Project set up environment contain: Webpack, Babel, ES6, Yarn, React",
+  "main": "index.js",
+  "repository": "https://github.com/TomNguyen11/react-manually-01",
+  "author": "Tom Nguyen",
+  "license": "MIT"
+}
